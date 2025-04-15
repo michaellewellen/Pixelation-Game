@@ -1,0 +1,12 @@
+# Ignore Visual Studio junk
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Optional: VSCode / JetBrains settings
+.vscode/
+.idea/
